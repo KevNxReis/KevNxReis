@@ -1,23 +1,16 @@
-### Olá! Eu sou o Kevin Reis 👋🏼
+### Olá! Eu sou o Kevin Reis 👋🏼  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kevin_reis_21?igshid=ajJsb3F3NDRrZG5s)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinreis747@gmail.com)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-santos-reis-8a1545224/)  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://instagram.com/kevin_reis_21?igshid=ajJsb3F3NDRrZG5s)
+### Contato com a área  
 
-### Contato com a área
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-<div style="display: inline_block"><br/>
-    <img align="center"alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center"alt="java" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=java&logoColor=white"/>
-    <br/>
+### Estatísticas  
 
-    
+![KevNxReis's Stats](https://github-readme-streak-stats.herokuapp.com/?user=KevNxReis&theme=nord&hide_border=false)  
 
-</div><br/>
-
-### Estatisticas
-
-
-![KevNxReis's Stats](https://github-readme-stats.vercel.app/api?username=KevNxReis&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
-Cursando B.C.C (Ciências da Computação)<br>
-IFG Goiano Campus Morrinhos<br/>
+Cursando B.C.C (Ciências da Computação)  
+IFG Campus Morrinhos  
